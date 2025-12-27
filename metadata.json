@@ -1,0 +1,7 @@
+{
+  "name": "REXDEVCYBER STORE",
+  "description": "A high-performance cybersecurity information hub and network database portal for vulnerability investigation and connection security.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
